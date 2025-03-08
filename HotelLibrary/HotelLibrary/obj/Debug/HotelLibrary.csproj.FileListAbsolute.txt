@@ -1,0 +1,6 @@
+C:\Users\Administrator\source\repos\HotelLibrary\HotelLibrary\bin\Debug\HotelLibrary.dll
+C:\Users\Administrator\source\repos\HotelLibrary\HotelLibrary\bin\Debug\HotelLibrary.pdb
+C:\Users\Administrator\source\repos\HotelLibrary\HotelLibrary\obj\Debug\HotelLibrary.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\HotelLibrary\HotelLibrary\obj\Debug\HotelLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\HotelLibrary\HotelLibrary\obj\Debug\HotelLibrary.dll
+C:\Users\Administrator\source\repos\HotelLibrary\HotelLibrary\obj\Debug\HotelLibrary.pdb
